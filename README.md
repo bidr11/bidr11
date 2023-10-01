@@ -9,7 +9,7 @@
 
 - Currently reading **Practical Reverse Engineering**.
 - I'm currently learning more about the **Security Analyst** role and **SOC** functions.
-- Extremely interested in Red Teaming.
+- Extremely interested in **Red Teaming** and **Malware Development**.
 - How to reach me **badr.jebbari3615@gmail.com**
    
 <br>
