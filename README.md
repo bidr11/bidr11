@@ -16,7 +16,7 @@
 <h2 align="left">Github Stats</h2>
 
 ![bidr's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=bidr11&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bidr11&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bidr11&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/bidr11/github-readme-stats)
 
 <p align="left">
    <a href="https://www.linkedin.com/in/badr-jebbari/" target="_blank">
