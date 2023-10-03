@@ -3,9 +3,9 @@
 <h3 align="center">Cybersecurity Enthusiast | Malware Analyst</h3>
 <br>
 
-<!-- <p align="center">
+<p align="center">
    <img src="https://komarev.com/ghpvc/?username=bidr11&style=for-the-badge&color=0e75b6" />
-<p> -->
+<p>
 
 - Currently reading **Practical Reverse Engineering**.
 - I'm currently learning more about the **Security Analyst** role and **SOC** functions.
