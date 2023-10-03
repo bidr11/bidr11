@@ -45,3 +45,5 @@
 <a href="https://www.linkedin.com/in/badr-jebbari/" target="_blank"> <img align="center" src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=blue"/>
 <a href="https://tryhackme.com/p/bidr" target="_blank"> <img align="center" src="https://img.shields.io/badge/-Tryhackme-000.svg?logo=tryhackme&style=for-the-badge"/>
 <a href="https://app.hackthebox.com/users/909842" target="_blank"> <img align="center" src="https://img.shields.io/badge/-hackthebox-000.svg?logo=hackthebox&style=for-the-badge"/>
+
+![](https://hit.yhype.me/github/profile?user_id=97621670)
