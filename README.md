@@ -32,10 +32,9 @@
 <h4>Software Development </h4>
 
 
- <img alt="React" src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-000.svg?style=for-the-badge&logo=tailwind-css"/> <img alt="Sass" src="https://img.shields.io/badge/Sass-000.svg?style=for-the-badge&logo=sass"/>
+ <img alt="React" src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-000.svg?style=for-the-badge&logo=tailwind-css"/>
 <br></br>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=php"/> <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js"/> <img alt="Flask" src="https://img.shields.io/badge/Flask-000.svg?style=for-the-badge&logo=flask&logoColor=29a071"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/>
-<img alt="Wordpress" src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000.svg?style=for-the-badge&logo=fastapi"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/>
 <br>
 
 
